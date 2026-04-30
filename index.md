@@ -1,4 +1,4 @@
-# Universidad Nacional De Loja 
+# 🏫 UNIVERSIDAD NACIONAL DE LOJA 🏫
 ## Portafolio Digital de Aprendizaje – Teoría de la Programación.
 - **Estudiante:** Jose Camilo Merino Morocho
 - **Carrera:** Ingenieria en Computacion
