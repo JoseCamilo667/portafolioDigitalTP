@@ -1,11 +1,11 @@
 # Universidad Nacional De Loja 
 ## Portafolio Digital de Aprendizaje – Teoría de la Programación.
-- | **Estudiante** | Jose Camilo Merino Morocho |
-- | **Carrera** | Ingenieria en Computacion |
-- | **Asignatura** | Teoria De La Programacion |
-- | **Ciclo** | Primero |
-- | **Período Académico** | 2026 |
-- | **Docente** | Ing. Lissette Lopez |
+- **Estudiante:** Jose Camilo Merino Morocho
+- **Carrera:** Ingenieria en Computacion
+- **Asignatura:** Teoria De La Programacion 
+- **Ciclo:** Primero 
+- **Período Académico:** 2026
+- **Docente:** Ing. Lissette Lopez 
 
 # 🚀 Unidad 1: Fundamentos de Programación
 ------------------------------------------------------------------------------
@@ -43,9 +43,9 @@ PROCESO:
 SALIDA:
 - Conversión a todas las unidades
 
-### ✍️ Diseño Del Algoritmo
+### ✍️Diseño Del Algoritmo
 
-#### Psudocodigo
+#### 📝Psudocodigo
  Inicio
    1. Leer pies
    2. yardas = pies / 3
@@ -56,7 +56,7 @@ SALIDA:
    
 Fin
 
-#### Diagrama de Flujo
+#### ⚡Diagrama de Flujo
 ```mermaid
 flowchart TD
     A[Inicio] --> B[Leer pies]
@@ -68,7 +68,7 @@ flowchart TD
     G --> H[Fin]
 ```
 
-### Codificación (código fuente): Desarrollado en C
+### 💻Codificación (código fuente): Desarrollado en C
 ```c
 #include <stdio.h>
 
