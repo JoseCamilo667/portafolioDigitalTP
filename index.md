@@ -57,16 +57,8 @@ SALIDA:
 Fin
 
 #### ⚡Diagrama de Flujo
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Leer pies]
-    B --> C[Calcular yardas]
-    C --> D[Calcular pulgadas]
-    D --> E[Calcular centimetros]
-    E --> F[Calcular metros]
-    F --> G[Mostrar resultados]
-    G --> H[Fin]
-```
+<img width="700" height="1000" alt="ChatGPT Image 3 may 2026, 04_36_58 p m" src="https://github.com/user-attachments/assets/593b3d60-820e-4e38-ae5e-bfa114aca448" />
+
 
 ### 💻Codificación (código fuente): Desarrollado en C
 ```c
