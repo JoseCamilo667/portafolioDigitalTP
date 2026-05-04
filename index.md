@@ -1,15 +1,25 @@
+<div align="center">
+ 
 # 🏫 UNIVERSIDAD NACIONAL DE LOJA 🏫
 ## Portafolio Digital de Aprendizaje – Teoría de la Programación.
-- **Estudiante:** Jose Camilo Merino Morocho
-- **Carrera:** Ingenieria en Computacion
-- **Asignatura:** Teoria De La Programacion 
-- **Ciclo:** Primero 
-- **Período Académico:** 2026
-- **Docente:** Ing. Lissette Lopez 
+<img width="250" alt="Sello_UNL sin fondo" src="https://github.com/user-attachments/assets/4860f66d-04aa-472e-8df6-fb32526f5482" />
+
+# UNIVERSIDAD NACIONAL DE LOJA
+## Portafolio Digital de Aprendizaje – Teoría de la Programación
+
+**Estudiante:** Jose Camilo Merino Morocho  
+**Carrera:** Ingeniería en Computación  
+**Asignatura:** Teoría De La Programación  
+**Ciclo:** Primero  
+**Período Académico:** 2026  
+**Docente:** Ing. Lissette Lopez
+
+</div>
 
 # 🚀 Unidad 1: Fundamentos de Programación
 ------------------------------------------------------------------------------
 ### 📖 Contenidos
+<img width="700" height="500" alt="64230f6e71e71b5a1f6c0b8e_fundamentos-programacion" src="https://github.com/user-attachments/assets/1304cf3c-dad3-401c-9176-89112a07dee5" />
 
 - **Algoritmo** → Es Conjunto ordenado de pasos o instrucciones que permiten resolver un problema o realizar una tarea específica.
 - **Pseudocódigo** → Es una Forma de representar un algoritmo usando un lenguaje intermedio entre el lenguaje natural y el de programación, sin reglas estrictas de sintaxis.
