@@ -1,6 +1,6 @@
 <div align="center">
  
-# 🏫 UNIVERSIDAD NACIONAL DE LOJA 🏫
+# UNIVERSIDAD NACIONAL DE LOJA 
 ## Portafolio Digital de Aprendizaje – Teoría de la Programación.
 <img width="250" alt="Sello_UNL sin fondo" src="https://github.com/user-attachments/assets/4860f66d-04aa-472e-8df6-fb32526f5482" />
 
@@ -16,10 +16,10 @@
 
 </div>
 
+------------------------------------------------------------------------------
 # 🚀 Unidad 1: Fundamentos de Programación
 ------------------------------------------------------------------------------
-### 📖 Contenidos
-<img width="700" height="500" alt="64230f6e71e71b5a1f6c0b8e_fundamentos-programacion" src="https://github.com/user-attachments/assets/1304cf3c-dad3-401c-9176-89112a07dee5" />
+### 📖 Contenidos Esencailes
 
 - **Algoritmo** → Es Conjunto ordenado de pasos o instrucciones que permiten resolver un problema o realizar una tarea específica.
 - **Pseudocódigo** → Es una Forma de representar un algoritmo usando un lenguaje intermedio entre el lenguaje natural y el de programación, sin reglas estrictas de sintaxis.
@@ -104,6 +104,7 @@ int main(){
 ## ⚠️ Principales dificultades y reflexión crítica en la aplicación de los contenidos.
 Algunas dificultades que se pueden presentar podrian ser: 
 - Comprender correctamente la lógica del problema antes de programar.
+
 - Traducir correctamente el algoritmo a pseudocódigo.
 - Errores de sintaxis en el código AL Momento de programar.
 - Falta de práctica en pruebas de escritorio.
@@ -111,3 +112,26 @@ Algunas dificultades que se pueden presentar podrian ser:
 ### 💭 Reflexión crítica
 El desarrollo de algoritmos es un proceso iportante para la programación, ya que permite organizar ideas de forma lógica antes de programar ademas el uso de herramientas como pseudocódigo y diagramas de flujo facilita la comprensión del problema. Sin embargo, es necesario practicar constantemente para mejorar la capacidad de análisis y reducir errores en la implementación.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 📖 Bibliografía
+[1] T. H. Cormen, C. E. Leiserson, R. L. Rivest y C. Stein, *Introduction to Algorithms*, 3rd ed. Cambridge, MA, USA: MIT Press, 2009.
+
+[2] B. W. Kernighan y D. M. Ritchie, *The C Programming Language*, 2nd ed. Englewood Cliffs, NJ, USA: Prentice Hall, 1988.
+
+[3] R. Sedgewick y K. Wayne, *Algorithms*, 4th ed. Boston, MA, USA: Addison-Wesley, 2011.
+
+[4] M. Sipser, *Introduction to the Theory of Computation*, 3rd ed. Boston, MA, USA: Cengage Learning, 2012.
+
+[5] J. Glenn Brookshear y D. Brylow, *Computer Science: An Overview*, 13th ed. Boston, MA, USA: Pearson, 2019.
+
+
+# 🤖Declaración de uso de inteligencia artificial generativa
+
+Para la elaboración del presente portafolio se utilizó una herramienta de inteligencia artificial generativa (ChatGPT) como apoyo en la organización de contenidos, redacción en formato Markdown y estructuración de ejemplos de programación.
+
+El uso de esta herramienta se limitó a funciones de asistencia académica, tales como:
+- Ayuda al mejoramiento visual del documento
+- Apoyo en la redacción técnica.
+- Sugerencias de ejemplos y explicaciones.
+
+El estudiante es responsable de la revisión, comprensión y validación del contenido presentado, así como de garantizar la originalidad y el uso ético de la información conforme a las normas académicas de la institución.
