@@ -118,12 +118,6 @@ El desarrollo de algoritmos es un proceso iportante para la programación, ya qu
 
 [2] B. W. Kernighan y D. M. Ritchie, *The C Programming Language*, 2nd ed. Englewood Cliffs, NJ, USA: Prentice Hall, 1988.
 
-[3] R. Sedgewick y K. Wayne, *Algorithms*, 4th ed. Boston, MA, USA: Addison-Wesley, 2011.
-
-[4] M. Sipser, *Introduction to the Theory of Computation*, 3rd ed. Boston, MA, USA: Cengage Learning, 2012.
-
-[5] J. Glenn Brookshear y D. Brylow, *Computer Science: An Overview*, 13th ed. Boston, MA, USA: Pearson, 2019.
-
 
 # 🤖Declaración de uso de inteligencia artificial generativa
 
