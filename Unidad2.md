@@ -308,68 +308,12 @@ La sucesión de Fibonacci se caracteriza porque cada número es la suma de los d
 
 ## 🧠 Diseño del Algoritmo (Diagrama de Flujo)
 
-```text
- ┌─────────┐
- │ 🚀 INICIO │
- └────┬────┘
-      │
-      ▼
- ┌─────────────────┐
- │ anta=0 antb=1   │
- └────┬────────────┘
-      │
-      ▼
- ┌─────────────────┐
- │ 📝 Ingresar n    │
- └────┬────────────┘
-      │
-      ▼
- ┌─────────────────┐
- │ ❓ ¿n < 0?       │
- └───┬───────┬─────┘
-     │Sí     │No
-     ▼       ▼
- Volver    ❓ ¿n=0?
- pedir n
-             │
-       ┌─────┴─────┐
-       │           │
-      Sí          No
-       │           │
-       ▼           ▼
- Mostrar 0     ❓ ¿n=1?
-                   │
-             ┌─────┴─────┐
-             │           │
-            Sí          No
-             │           │
-             ▼           ▼
-        Mostrar 1     cont=2
-                         │
-                         ▼
-                 ┌────────────┐
-                 │ ❓ cont<=n? │
-                 └───┬────┬───┘
-                     │Sí  │No
-                     ▼    ▼
-             suma=anta+antb
-             Mostrar suma
-             anta=antb
-             antb=suma
-             cont++
-                     │
-                     └───────┐
-                             │
-                             ▼
-                  Mostrar suma final
-                             │
-                             ▼
-                          🏁 FIN
-```
+<img width="978" height="1297" alt="image" src="https://github.com/user-attachments/assets/79bb8238-0e38-475f-8560-67d9878a51ae" />
+
 
 ---
 
-## 💻 Codificación (Código Fuente)
+### 💻Codificación (código fuente): Desarrollado en C
 
 ```c
 #include <stdio.h>
