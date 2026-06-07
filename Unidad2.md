@@ -7,7 +7,7 @@ Las estructuras condicionales permiten tomar decisiones dentro de un algoritmo d
 
 
 
-## 1️⃣ Condicional Simple (Si)
+## 1️⃣ Condicional Simple If (Si)
 Ejecuta una acción únicamente cuando se cumple una condición.
 
 ### Pseudocódigo
@@ -19,20 +19,8 @@ FinSi
 ```
 
 ### Diagrama de Flujo
+<img width="496" height="327" alt="image" src="https://github.com/user-attachments/assets/eb55b035-4d92-4528-aa6c-63c22011b7a4" />
 
-```text
-   Inicio
-      |
- ¿Condición?
-   /    \
- Sí      No
- |        |
-Acción    |
-  |       |
-  ---------
-      |
-     Fin
-```
 
 ###  Ejemplo
 
@@ -44,7 +32,7 @@ FinSi
 
 
 
-## 2️⃣ Condicional Doble (Si - Sino)
+## 2️⃣ Condicional Doble if-else  (Si - Sino)
 Permite elegir entre dos alternativas.
 
 ### Pseudocódigo
@@ -59,19 +47,7 @@ FinSi
 
 ### Diagrama de Flujo
 
-```text
-      Inicio
-         |
-    ¿Condición?
-      /      \
-    Sí        No
-    |          |
- Acción1    Acción2
-    |          |
-     ----------
-         |
-        Fin
-```
+<img width="575" height="325" alt="image" src="https://github.com/user-attachments/assets/50c788fe-bc54-48b0-a407-ddf18915f943" />
 
 ### Ejemplo
 
@@ -85,7 +61,7 @@ FinSi
 
 
 
-## 3️⃣ Condicional Múltiple (Si - Sino Si)
+## 3️⃣ Condicional Múltiple Switch case (Segun hacer)
 Permite evaluar varias condiciones.
 
 ###  Pseudocódigo
@@ -102,21 +78,8 @@ FinSi
 
 ###  Diagrama de Flujo
 
-```text
-        Inicio
-           |
-     ¿Condición1?
-       /      \
-     Sí        No
-     |          |
- Acción1   ¿Condición2?
-             /      \
-           Sí        No
-           |          |
-        Acción2   Acción3
-             \      /
-               Fin
-```
+<img width="1042" height="443" alt="image" src="https://github.com/user-attachments/assets/15b130ab-5c43-47f2-83b2-b867b08fff12" />
+
 
 ###  Ejemplo
 
@@ -152,19 +115,8 @@ FinMientras
 
 ###  Diagrama de Flujo
 
-```text
-      Inicio
-         |
-   ¿Condición?
-      /    \
-    Sí      No
-    |        |
- Acción      |
-    |        |
-    ----------
-         |
-        Fin
-```
+<img width="563" height="562" alt="image" src="https://github.com/user-attachments/assets/bea61d76-2c82-44c3-92bf-56d599caca26" />
+
 
 ### Ejemplo
 
@@ -177,7 +129,7 @@ FinMientras
 
 
 
-## 2️⃣ Ciclo Repetir - Hasta Que (Do While)
+## 2️⃣ Ciclo Repetir - Hasta Mientras (Do While)
 Ejecuta primero las instrucciones y luego evalúa la condición.
 
 ### Pseudocódigo
@@ -190,19 +142,7 @@ Hasta Que condición
 
 ### Diagrama de Flujo
 
-```text
-      Inicio
-         |
-      Acción
-         |
-   ¿Condición?
-      /     \
-    No       Sí
-    |         |
-    ----------
-         |
-        Fin
-```
+<img width="532" height="498" alt="image" src="https://github.com/user-attachments/assets/e5426f07-f336-4fae-9a35-4ed64f0b78df" />
 
 ### Ejemplo
 
@@ -228,22 +168,8 @@ FinPara
 
 ### Diagrama de Flujo
 
-```text
-      Inicio
-         |
- Inicializar i
-         |
-   ¿i <= 5?
-      /   \
-    Sí     No
-    |       |
- Acción     |
-    |       |
-  i = i+1   |
-    ----------
-         |
-        Fin
-```
+<img width="491" height="371" alt="image" src="https://github.com/user-attachments/assets/5c1deba3-22ae-47a7-a823-aa1673f9e03b" />
+
 
 ### Ejemplo
 
