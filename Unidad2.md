@@ -10,7 +10,7 @@ Las estructuras condicionales permiten tomar decisiones dentro de un algoritmo d
 ## 1️⃣ Condicional Simple (Si)
 Ejecuta una acción únicamente cuando se cumple una condición.
 
-### 📝 Pseudocódigo
+### Pseudocódigo
 
 ```text
 Si condición Entonces
@@ -18,7 +18,7 @@ Si condición Entonces
 FinSi
 ```
 
-### 🔄 Diagrama de Flujo
+### Diagrama de Flujo
 
 ```text
    Inicio
@@ -34,7 +34,7 @@ Acción    |
      Fin
 ```
 
-### 💡 Ejemplo
+###  Ejemplo
 
 ```text
 Si nota >= 7 Entonces
@@ -47,7 +47,7 @@ FinSi
 ## 2️⃣ Condicional Doble (Si - Sino)
 Permite elegir entre dos alternativas.
 
-### 📝 Pseudocódigo
+### Pseudocódigo
 
 ```text
 Si condición Entonces
@@ -57,7 +57,7 @@ Sino
 FinSi
 ```
 
-### 🔄 Diagrama de Flujo
+### Diagrama de Flujo
 
 ```text
       Inicio
@@ -73,7 +73,7 @@ FinSi
         Fin
 ```
 
-### 💡 Ejemplo
+### Ejemplo
 
 ```text
 Si nota >= 7 Entonces
@@ -88,7 +88,7 @@ FinSi
 ## 3️⃣ Condicional Múltiple (Si - Sino Si)
 Permite evaluar varias condiciones.
 
-### 📝 Pseudocódigo
+###  Pseudocódigo
 
 ```text
 Si condición1 Entonces
@@ -100,7 +100,7 @@ Sino
 FinSi
 ```
 
-### 🔄 Diagrama de Flujo
+###  Diagrama de Flujo
 
 ```text
         Inicio
@@ -118,7 +118,7 @@ FinSi
                Fin
 ```
 
-### 💡 Ejemplo
+###  Ejemplo
 
 ```text
 Si nota >= 9 Entonces
@@ -142,7 +142,7 @@ Las estructuras repetitivas permiten ejecutar varias veces un bloque de instrucc
 ## 1️⃣ Ciclo Mientras (While)
 Repite instrucciones mientras la condición sea verdadera.
 
-### 📝 Pseudocódigo
+### Pseudocódigo
 
 ```text
 Mientras condición Hacer
@@ -150,7 +150,7 @@ Mientras condición Hacer
 FinMientras
 ```
 
-### 🔄 Diagrama de Flujo
+###  Diagrama de Flujo
 
 ```text
       Inicio
@@ -166,7 +166,7 @@ FinMientras
         Fin
 ```
 
-### 💡 Ejemplo
+### Ejemplo
 
 ```text
 Mientras contador <= 5 Hacer
@@ -180,7 +180,7 @@ FinMientras
 ## 2️⃣ Ciclo Repetir - Hasta Que (Do While)
 Ejecuta primero las instrucciones y luego evalúa la condición.
 
-### 📝 Pseudocódigo
+### Pseudocódigo
 
 ```text
 Repetir
@@ -188,7 +188,7 @@ Repetir
 Hasta Que condición
 ```
 
-### 🔄 Diagrama de Flujo
+### Diagrama de Flujo
 
 ```text
       Inicio
@@ -204,7 +204,7 @@ Hasta Que condición
         Fin
 ```
 
-### 💡 Ejemplo
+### Ejemplo
 
 ```text
 Repetir
@@ -218,7 +218,7 @@ Hasta Que numero > 0
 ## 3️⃣ Ciclo Para (For)
 Se utiliza cuando se conoce previamente el número de repeticiones.
 
-### 📝 Pseudocódigo
+### Pseudocódigo
 
 ```text
 Para i = 1 Hasta 5 Hacer
@@ -226,7 +226,7 @@ Para i = 1 Hasta 5 Hacer
 FinPara
 ```
 
-### 🔄 Diagrama de Flujo
+### Diagrama de Flujo
 
 ```text
       Inicio
@@ -245,7 +245,7 @@ FinPara
         Fin
 ```
 
-### 💡 Ejemplo
+### Ejemplo
 
 ```text
 Para i = 1 Hasta 5 Hacer
@@ -261,8 +261,6 @@ FinPara
 ## 📝 Planteamiento del Problema
 
 
-### 📌 Planteamiento del Problema
-
 Desarrollar un programa en lenguaje **C** que solicite al usuario un número entero positivo **n** y calcule el término correspondiente de la **Serie de Fibonacci**. Además, el programa debe mostrar los valores generados durante el proceso hasta llegar al término solicitado.
 
 La sucesión de Fibonacci se caracteriza porque cada número es la suma de los dos anteriores:
@@ -277,22 +275,22 @@ La sucesión de Fibonacci se caracteriza porque cada número es la suma de los d
 
 ### 📥 Datos de Entrada
 
-- 🔢 `n`: Posición del término de Fibonacci que desea calcular el usuario.
+- `n`: Posición del término de Fibonacci que desea calcular el usuario.
 
 ### ⚙️ Proceso
 
-1. 📝 Solicitar el valor de `n`.
-2. ✅ Validar que sea mayor o igual a 0.
+1.  Solicitar el valor de `n`.
+2.  Validar que sea mayor o igual a 0.
 3. 🔹 Si `n = 0`, mostrar 0.
 4. 🔹 Si `n = 1`, mostrar 1.
-5. 🔄 Si `n > 1`, calcular la serie utilizando un ciclo `for`.
-6. 📊 Mostrar cada término calculado.
-7. 🎯 Mostrar el término Fibonacci correspondiente a la posición ingresada.
+5.  Si `n > 1`, calcular la serie utilizando un ciclo `for`.
+6.  Mostrar cada término calculado.
+7.  Mostrar el término Fibonacci correspondiente a la posición ingresada.
 
 ### 📤 Datos de Salida
 
-- 📈 Serie generada.
-- 🎯 Término de Fibonacci calculado.
+-  Serie generada.
+- Término de Fibonacci calculado.
 
 ### 📋 Variables Utilizadas
 
@@ -370,8 +368,8 @@ n = 7
 
 ### 🔄 Desarrollo del Ciclo
 
-| 🔢 cont | ➕ suma = anta + antb | ⬅️ anta | ➡️ antb |
-|----------|----------------------|----------|----------|
+| cont |  suma = anta + antb |  anta | antb |
+|-------|--------------------|--------|----------|
 | 2 | 1 | 1 | 1 |
 | 3 | 2 | 1 | 2 |
 | 4 | 3 | 2 | 3 |
