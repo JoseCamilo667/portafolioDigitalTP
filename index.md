@@ -4,8 +4,6 @@
 ## Portafolio Digital de Aprendizaje – Teoría de la Programación.
 <img width="250" alt="Sello_UNL sin fondo" src="https://github.com/user-attachments/assets/4860f66d-04aa-472e-8df6-fb32526f5482" />
 
-# UNIVERSIDAD NACIONAL DE LOJA
-## Portafolio Digital de Aprendizaje – Teoría de la Programación
 
 **Estudiante:** Jose Camilo Merino Morocho  
 **Carrera:** Ingeniería en Computación  
@@ -17,7 +15,7 @@
 </div>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**UNIDADES DEL PRIMER CICLO**
+# UNIDADES DEL PRIMER CICLO
 <div align="center">
  
 📂 **[Unidad 1 ](Unidad1.md)**  &nbsp;&nbsp;&nbsp;
