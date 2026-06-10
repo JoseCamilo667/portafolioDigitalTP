@@ -1,6 +1,9 @@
+------------------------------------------------------------------------------
 # 📘 Unidad 2: Estructuras Condicionales y Repetitivas
+------------------------------------------------------------------------------
+### 📖 Contenidos Esenciales 
 
----
+
 
 # 🔀 Estructuras Condicionales
 Las estructuras condicionales permiten tomar decisiones dentro de un algoritmo dependiendo de si una condición es verdadera o falsa.
