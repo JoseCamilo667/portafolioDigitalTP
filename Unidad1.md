@@ -93,3 +93,6 @@ Algunas dificultades que se pueden presentar podrian ser:
 
 ### 💭 Reflexión crítica
 El desarrollo de algoritmos es un proceso iportante para la programación, ya que permite organizar ideas de forma lógica antes de programar ademas el uso de herramientas como pseudocódigo y diagramas de flujo facilita la comprensión del problema. Sin embargo, es necesario practicar constantemente para mejorar la capacidad de análisis y reducir errores en la implementación.
+
+
+| ⬅️ **[Volver al Inicio](index.md)** |
