@@ -2,7 +2,7 @@
 
 # 🎓 UNIVERSIDAD NACIONAL DE LOJA 🎓
 
-<img width="350" alt="Sello UNL" src="https://github.com/user-attachments/assets/4860f66d-04aa-472e-8df6-fb32526f5482" />
+<img width="350" alt="Sello UNL" src="https://univercimas.com/wp-content/uploads/2021/04/Universidad-Nacional-de-Loja-UNL.png" />
 
 # 📚 Portafolio Digital de Aprendizaje 📚
 ## Teoría de la Programación
