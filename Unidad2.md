@@ -7,7 +7,7 @@ Las estructuras condicionales permiten tomar decisiones dentro de un algoritmo d
 
 
 
-## 1️⃣ Condicional Simple If (Si)
+## 🔶 Condicional Simple If (Si)
 Ejecuta una acción únicamente cuando se cumple una condición.
 
 ### Pseudocódigo
@@ -32,7 +32,7 @@ FinSi
 
 
 
-## 2️⃣ Condicional Doble if-else  (Si - Sino)
+## 🔶 Condicional Doble if-else  (Si - Sino)
 Permite elegir entre dos alternativas.
 
 ### Pseudocódigo
@@ -61,7 +61,7 @@ FinSi
 
 
 
-## 3️⃣ Condicional Múltiple Switch case (Segun hacer)
+## 🔶 Condicional Múltiple Switch case (Segun hacer)
 Permite evaluar varias condiciones.
 
 ###  Pseudocódigo
@@ -102,7 +102,7 @@ Las estructuras repetitivas permiten ejecutar varias veces un bloque de instrucc
 
 
 
-## 1️⃣ Ciclo Mientras (While)
+## 🔶 Ciclo Mientras (While)
 Repite instrucciones mientras la condición sea verdadera.
 
 ### Pseudocódigo
@@ -129,7 +129,7 @@ FinMientras
 
 
 
-## 2️⃣ Ciclo Repetir - Hasta Mientras (Do While)
+## 🔶 Ciclo Repetir - Hasta Mientras (Do While)
 Ejecuta primero las instrucciones y luego evalúa la condición.
 
 ### Pseudocódigo
@@ -155,7 +155,7 @@ Hasta Que numero > 0
 
 
 
-## 3️⃣ Ciclo Para (For)
+## 🔶 Ciclo Para (For)
 Se utiliza cuando se conoce previamente el número de repeticiones.
 
 ### Pseudocódigo
