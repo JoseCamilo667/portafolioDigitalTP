@@ -230,12 +230,3 @@ Los contenidos estudiados en esta unidad son fundamentales para la programación
 
 ---
 
-# 📚 Referencias Bibliográficas
-
-- Deitel, P., & Deitel, H. (2020). *C: How to Program* (9th ed.). Pearson.
-
-- Kernighan, B. W., & Ritchie, D. M. (1988). *The C Programming Language* (2nd ed.). Prentice Hall.
-
-- Joyanes Aguilar, L. (2019). *Fundamentos de Programación: Algoritmos, estructuras de datos y objetos*. McGraw-Hill Education.
-
-- Villalpando Becerra, J. F., & García Sandoval, A. (2014). *Fundamentos de Programación utilizando el lenguaje C*. Grupo Editorial Patria.
