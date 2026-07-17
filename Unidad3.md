@@ -224,6 +224,7 @@ Posteriormente, otros tres ciclos `for` anidados recorren el arreglo para mostra
 Finalmente, se calcula el **promedio** dividiendo la suma total entre la cantidad de elementos del arreglo (12), mostrando así un ejemplo de cómo procesar la información de un arreglo tridimensional, no solo almacenarla y mostrarla.
 
 Este tipo de arreglo es útil cuando se necesita representar datos organizados en múltiples niveles, como notas de varios estudiantes en varias materias a lo largo de varios periodos, o cualquier información que dependa de tres índices.
+
 ---
 
 # 📊 Comparación entre los tipos de arreglos
