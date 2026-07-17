@@ -42,7 +42,7 @@ Este tipo de paso de parámetros es recomendable cuando únicamente se necesita 
 
 **Archivo del código:**
 
-[📄 Ver código completo](ejercicioModyRefe.c)
+[📄 Ver código completo](ejercicioValor.c)
 
 
 ### Explicación
