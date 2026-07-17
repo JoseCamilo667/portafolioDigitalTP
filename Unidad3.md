@@ -124,7 +124,7 @@ tipo nombre[tamaño];
 Ejemplo:
 
 ```c
-int lista[5];
+int notas[5];
 ```
 
 ---
@@ -136,11 +136,15 @@ int lista[5];
 
 ### Explicación
 
-En este ejercicio el usuario ingresa cinco números utilizando un ciclo `for`.
+En este ejercicio el usuario ingresa cinco notas utilizando un ciclo `for`.
 
-Posteriormente, otro ciclo recorre el arreglo para mostrar todos los valores almacenados.
+Mientras se ingresan los datos, el programa va sumando cada valor en una variable acumuladora (`suma`).
 
-Este tipo de arreglo es útil cuando se necesita almacenar listas de datos como edades, notas, temperaturas, salarios o cualquier conjunto de elementos del mismo tipo.
+Posteriormente, otro ciclo recorre el arreglo para mostrar todas las notas almacenadas.
+
+Finalmente, se calcula el **promedio** dividiendo la suma total entre la cantidad de elementos (5), mostrando así un ejemplo de cómo procesar la información de un arreglo, no solo almacenarla y mostrarla.
+
+Este tipo de arreglo es útil cuando se necesita almacenar listas de datos como notas, edades, salarios o cualquier conjunto de elementos del mismo tipo, y además realizar cálculos sobre ellos.
 
 ---
 
