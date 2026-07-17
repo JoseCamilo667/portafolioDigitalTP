@@ -202,7 +202,7 @@ tipo matriz[capas][filas][columnas];
 Ejemplo:
 
 ```c
-float matriz[2][5][3];
+int matriz[2][2][3];
 ```
 
 ---
@@ -215,14 +215,15 @@ float matriz[2][5][3];
 
 ### Explicación
 
-En este ejercicio se declara una matriz tridimensional con dos capas.
+En este ejercicio el usuario ingresa los datos de un arreglo de 2 capas, 2 filas y 3 columnas, utilizando tres ciclos `for` anidados: el primero recorre las capas, el segundo las filas y el tercero las columnas.
 
-Cada capa contiene cinco registros y cada registro almacena tres datos.
+Mientras se ingresan los datos, el programa va sumando cada valor en una variable acumuladora (`suma`).
 
-El recorrido se realiza mediante tres ciclos `for` anidados, permitiendo acceder a todos los elementos de la estructura.
+Posteriormente, otros tres ciclos `for` anidados recorren el arreglo para mostrar todos los datos almacenados, respetando la estructura de capas, filas y columnas.
 
-Este tipo de arreglo es utilizado cuando la información necesita organizarse en diferentes niveles, por ejemplo horarios, inventarios por sucursal, calificaciones por cursos o imágenes digitales.
+Finalmente, se calcula el **promedio** dividiendo la suma total entre la cantidad de elementos del arreglo (12), mostrando así un ejemplo de cómo procesar la información de un arreglo tridimensional, no solo almacenarla y mostrarla.
 
+Este tipo de arreglo es útil cuando se necesita representar datos organizados en múltiples niveles, como notas de varios estudiantes en varias materias a lo largo de varios periodos, o cualquier información que dependa de tres índices.
 ---
 
 # 📊 Comparación entre los tipos de arreglos
