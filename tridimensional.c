@@ -35,7 +35,7 @@ int main() {
 }
 
 
-//OTRA FORMA DE ARREGLO TYRIDIMENSIONAL --------------------------------------------------------
+//OTRA FORMA DE ARREGLO TYRIDIMENSIONAL --------------------------------------------------------------------------------------------
 
 #include <stdio.h>
 
