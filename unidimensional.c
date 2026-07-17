@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 int main(){
     int lista [5];
     lista[0] = 1;
@@ -26,9 +26,9 @@ int main(){
     printf("Posicion 3: %i\n", lista [3]);
     printf("Posicion 4: %i\n", lista [4]);
 }
-*/
 
-//----------------------------------------------
+
+//OTRA FORMA DE ARREGLO UNIDIMENSIONAL ----------------------------------------------
 #include <stdio.h>
 
 
