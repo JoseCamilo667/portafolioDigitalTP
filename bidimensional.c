@@ -1,8 +1,11 @@
 #include <stdio.h>
+
 int main() {
 
     int matriz[3][2];
     int dato;
+    int suma = 0;
+    float promedio;
 
     // Ingreso de datos
     for(int x = 0; x < 3; x++) {
@@ -10,11 +13,12 @@ int main() {
             printf("Ingrese el dato de la posicion (%i,%i): ", x, y);
             scanf("%i", &dato);
             matriz[x][y] = dato;
+            suma += dato;
         }
     }
 
     // Mostrar la matriz
-    printf("======================================");
+    printf("========================================");
     printf("\nLa matriz resultante de 3x2 es:\n");
 
     for(int x = 0; x < 3; x++) {
@@ -23,7 +27,12 @@ int main() {
         }
         printf("\n");
     }
-    printf("======================================");
+    printf("========================================");
+
+    // Calcular y mostrar el promedio
+    promedio = (float)suma / 6;
+    printf("\nLa suma total de los datos es: %i", suma);
+    printf("\nEl promedio de los datos es: %.2f\n", promedio);
 
     return 0;
 }
