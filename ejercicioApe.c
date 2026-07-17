@@ -19,7 +19,7 @@ int main(){
     return 0;
 }
 
-//Funciones-------------------------------------------------------------------------------------------
+//Funcione para calcular el valor por cada cliente -------------------------------------------------------------------------------------------
 
 float calcularValorCliente (){
     int consola;
@@ -62,6 +62,7 @@ float calcularValorCliente (){
     return totalCliente; 
 }
 
+//Funcione para calcular el valor toral -------------------------------------------------------------------------------------------
 void calcularValorRecaudado (int nrclientes, float *totalRecaudado){
     int i;
     for(i = 1; i <= nrclientes; i++) {
