@@ -42,7 +42,7 @@ Este tipo de paso de parámetros es recomendable cuando únicamente se necesita 
 
 **Archivo del código:**
 
-[📄 Ver código completo](ejercicioApe.c)
+[📄 Ver código completo](ejercicioModyRefe.c)
 
 
 ### Explicación
@@ -68,25 +68,25 @@ Este mecanismo es muy utilizado cuando una función necesita actualizar valores 
 **Archivo del código:**
 
 
-[📄 Ver código completo](ejercicioApe.c)
+[📄 Ver código completo](ejercicioModyRefe.c)
 
 
 ### Explicación
 
 Dentro del programa se implementa la función:
-
+ 
 ```c
-void calcularValorRecaudado(int nrClientes, float *totalRecaudado);
+void calcularValorRecaudado(int nrVehiculos, float *totalRecaudado);
 ```
-
+ 
 En este caso, el parámetro `totalRecaudado` es un **puntero** que almacena la dirección de memoria de la variable original.
-
-Cada vez que un cliente realiza un pago, el programa ejecuta:
-
+ 
+Cada vez que un vehículo realiza un pago, el programa ejecuta:
+ 
 ```c
-*totalRecaudado = *totalRecaudado + calcularValorCliente();
+*totalRecaudado = *totalRecaudado + calcularValorVehiculo();
 ```
-
+ 
 De esta forma se actualiza directamente la variable del programa principal sin necesidad de devolver un valor mediante `return`.
 
 
