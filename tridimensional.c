@@ -1,38 +1,3 @@
-/*#include <stdio.h>
-
-int main() {
-
-    int matriz[2][2][3];
-
-    // Ingreso de datos
-    for(int c = 0; c < 2; c++) {
-        for(int f = 0; f < 2; f++) {
-            for(int co = 0; co < 3; co++) {
-                printf("Ingrese el dato de la posicion (%i,%i,%i): ", c, f, co);
-                scanf("%i", &matriz[c][f][co]);
-            }
-        }
-    }
-
-    // Mostrar la matriz
-    printf("======================================");
-    printf("\nLa matriz resultante es:\n");
-
-    for(int c = 0; c < 2; c++) {
-        for(int f = 0; f < 2; f++) {
-            for(int co = 0; co < 3; co++) {
-                printf("[%i] ", matriz[c][f][co]);
-            }
-            printf("\n");
-        }
-        printf("\n");
-    }
-    printf("======================================");
-
-    return 0;
-}
-*/
-
 #include <stdio.h>
 
 int main() {
@@ -68,3 +33,41 @@ int main() {
 
     return 0;
 }
+
+
+/* OTRA FORMA DE ARREGLO TYRIDIMENSIONAL --------------------------------------------------------
+
+#include <stdio.h>
+
+int main() {
+
+    int matriz[2][2][3];
+
+    // Ingreso de datos
+    for(int c = 0; c < 2; c++) {
+        for(int f = 0; f < 2; f++) {
+            for(int co = 0; co < 3; co++) {
+                printf("Ingrese el dato de la posicion (%i,%i,%i): ", c, f, co);
+                scanf("%i", &matriz[c][f][co]);
+            }
+        }
+    }
+
+    // Mostrar la matriz
+    printf("======================================");
+    printf("\nLa matriz resultante es:\n");
+
+    for(int c = 0; c < 2; c++) {
+        for(int f = 0; f < 2; f++) {
+            for(int co = 0; co < 3; co++) {
+                printf("[%i] ", matriz[c][f][co]);
+            }
+            printf("\n");
+        }
+        printf("\n");
+    }
+    printf("======================================");
+
+    return 0;
+}
+*/
