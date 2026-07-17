@@ -68,7 +68,7 @@ Este mecanismo es muy utilizado cuando una función necesita actualizar valores 
 **Archivo del código:**
 
 
-[📄 Ver código completo](ejercicioModyRefe.c)
+[📄 Ver código completo](ejercicioRefe.c)
 
 
 ### Explicación
