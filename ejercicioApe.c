@@ -1,6 +1,6 @@
 #include <stdio.h>
 float calcularValorCliente ();
-void calcularValorRecaudado (int nrclientes, float *totalRecaudado);
+void calcularValorRecaudado (int nrclientes, float *totalRecaudado); // valor por referencia
 
 int main(){
     int nrClientes;
@@ -69,6 +69,6 @@ void calcularValorRecaudado (int nrclientes, float *totalRecaudado){
         printf("\n--- CLIENTE %i ---\n", i);
         
         // Llamar a funcion calcularValorCliente 
-        *totalRecaudado = *totalRecaudado + calcularValorCliente(); 
+        *totalRecaudado = *totalRecaudado + calcularValorCliente(); // valor por referencia
     }
 }
