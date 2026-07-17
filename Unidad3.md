@@ -1,4 +1,3 @@
-# 💻 Unidad 3
 
 ## 📖 Introducción
 
