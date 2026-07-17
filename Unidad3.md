@@ -35,9 +35,8 @@ Este tipo de paso de parámetros es recomendable cuando únicamente se necesita 
 
 **Archivo del código:**
 
-```md
 [📄 Ver código completo](ejercicioApe.c)
-```
+
 
 ### Explicación
 
@@ -61,9 +60,9 @@ Este mecanismo es muy utilizado cuando una función necesita actualizar valores 
 
 **Archivo del código:**
 
-```md
+
 [📄 Ver código completo](ejercicioApe.c)
-```
+
 
 ### Explicación
 
@@ -123,9 +122,8 @@ int lista[5];
 
 ### 📄 Ejemplo desarrollado
 
-```md
 [📄 Ver código completo](unidimensional.c)
-```
+
 
 ### Explicación
 
@@ -159,9 +157,8 @@ int matriz[3][2];
 
 ### 📄 Ejemplo desarrollado
 
-```md
 [📄 Ver código completo](bidimensional.c)
-```
+
 
 ### Explicación
 
@@ -195,9 +192,9 @@ float matriz[2][5][3];
 
 ### 📄 Ejemplo desarrollado
 
-```md
+
 [📄 Ver código completo](tridimensional.c)
-```
+
 
 ### Explicación
 
