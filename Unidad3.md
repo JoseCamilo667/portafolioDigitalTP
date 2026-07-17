@@ -33,27 +33,26 @@ La **modularidad** es una técnica de programación que consiste en dividir un p
 
 
 ## 📌 Paso de parámetros por valor
-
+ 
 El **paso por valor** consiste en enviar una copia del valor de una variable hacia una función. Esto significa que cualquier modificación realizada dentro de la función **no afecta** la variable original declarada en el programa principal.
-
+ 
 Este tipo de paso de parámetros es recomendable cuando únicamente se necesita utilizar el valor para realizar cálculos sin modificar la variable original.
-
+ 
 ### 📄 Ejemplo desarrollado
-
+ 
 **Archivo del código:**
-
+ 
 [📄 Ver código completo](ejercicioValor.c)
-
-
+ 
 ### Explicación
-
+ 
 En el programa desarrollado, la función:
-
+ 
 ```c
-float calcularValorCliente();
+float calcularValorRecaudado(int nrVehiculos);
 ```
-
-no recibe parámetros, pero devuelve un valor de tipo **float** correspondiente al total que debe pagar un cliente según la consola seleccionada y las horas utilizadas. El valor calculado se devuelve mediante la instrucción `return`, permitiendo que otra función lo utilice posteriormente.
+ 
+recibe el parámetro `nrVehiculos` **por valor** y devuelve un valor de tipo **float** correspondiente al total recaudado por todos los vehículos. En lugar de usar un puntero para modificar una variable externa, el resultado se calcula en una variable local y se entrega mediante la instrucción `return`, permitiendo que `main()` lo reciba a través de una asignación.
 
 
 
