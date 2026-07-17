@@ -1,12 +1,19 @@
+<div align="center">
+  
 # 💻 Unidad 3: Programación Modular y Estructuras de Datos Estáticas Básicas
+
+</div>
 
 ## 📖 Introducción
 
 En esta tercera unidad se abordaron conceptos fundamentales de la programación estructurada en lenguaje **C**, enfocados en la **modularidad** y el uso de **arreglos**. A través de ejercicios prácticos se comprendió la importancia de dividir un programa en funciones para mejorar la organización, reutilización y mantenimiento del código, además de aplicar el paso de parámetros por valor y por referencia. También se estudiaron los arreglos unidimensionales, bidimensionales y tridimensionales como estructuras que permiten almacenar y manipular conjuntos de datos de manera eficiente. Los ejercicios desarrollados fortalecieron el pensamiento lógico y las habilidades necesarias para resolver problemas mediante una programación organizada y estructurada.
 
 ---
+<div align="center">
 
 # 📌 Modularidad
+
+</div>
 
 ## ¿Qué es la modularidad?
 
@@ -89,8 +96,11 @@ De esta forma se actualiza directamente la variable del programa principal sin n
 La modularidad permite desarrollar programas más organizados, reutilizables y fáciles de mantener. Además, el uso adecuado del paso de parámetros por valor y por referencia ayuda a optimizar el manejo de la información dentro de un programa, dependiendo de si se requiere únicamente consultar un dato o modificarlo directamente.
 
 ---
+<div align="center">
 
 # 📦 Arreglos
+
+</div>
 
 ## ¿Qué son los arreglos?
 
