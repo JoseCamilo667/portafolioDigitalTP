@@ -30,7 +30,7 @@ La **modularidad** es una técnica de programación que consiste en dividir un p
 - Permite reutilizar funciones en otros programas.
 - Favorece el trabajo colaborativo entre programadores.
 
-
+---
 
 ## 📌 Paso de parámetros por valor
  
@@ -54,7 +54,7 @@ float calcularValorRecaudado(int nrVehiculos);
  
 recibe el parámetro `nrVehiculos` **por valor** y devuelve un valor de tipo **float** correspondiente al total recaudado por todos los vehículos. En lugar de usar un puntero para modificar una variable externa, el resultado se calcula en una variable local y se entrega mediante la instrucción `return`, permitiendo que `main()` lo reciba a través de una asignación.
 
-
+---
 
 ## 📌 Paso de parámetros por referencia
 
