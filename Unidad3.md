@@ -175,11 +175,15 @@ int matriz[3][2];
 
 ### Explicación
 
-En este programa se crea una matriz de **3 filas y 2 columnas**.
+En este ejercicio el usuario ingresa los datos de una matriz de 3 filas por 2 columnas, utilizando dos ciclos `for` anidados: el primero recorre las filas y el segundo recorre las columnas.
 
-Mediante dos ciclos `for` anidados se ingresan todos los datos y posteriormente se imprimen en pantalla respetando la estructura de la matriz.
+Mientras se ingresan los datos, el programa va sumando cada valor en una variable acumuladora (`suma`).
 
-Este tipo de arreglo es ampliamente utilizado para representar tablas, hojas de cálculo, matrices matemáticas y juegos tipo tablero.
+Posteriormente, otros dos ciclos `for` anidados recorren la matriz para mostrar todos los datos almacenados, respetando la estructura de filas y columnas.
+
+Finalmente, se calcula el **promedio** dividiendo la suma total entre la cantidad de elementos de la matriz (6), mostrando así un ejemplo de cómo procesar la información de un arreglo bidimensional, no solo almacenarla y mostrarla.
+
+Este tipo de arreglo es útil cuando se necesita representar datos organizados en tablas, como calificaciones de varios estudiantes en varias materias, coordenadas, o cualquier información que dependa de dos índices.
 
 ---
 
