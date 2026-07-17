@@ -19,7 +19,7 @@ En esta tercera unidad se abordaron conceptos fundamentales de la programación 
 
 La **modularidad** es una técnica de programación que consiste en dividir un programa en pequeñas partes llamadas **funciones** o **módulos**, donde cada una realiza una tarea específica. Esto permite que el código sea más organizado, fácil de entender y sencillo de mantener. Además, facilita la reutilización de funciones en diferentes programas sin necesidad de volver a escribirlas.
 
----
+
 
 ## ✅ Ventajas de la modularidad
 
@@ -30,7 +30,7 @@ La **modularidad** es una técnica de programación que consiste en dividir un p
 - Permite reutilizar funciones en otros programas.
 - Favorece el trabajo colaborativo entre programadores.
 
----
+
 
 ## 📌 Paso de parámetros por valor
 
@@ -55,7 +55,7 @@ float calcularValorCliente();
 
 no recibe parámetros, pero devuelve un valor de tipo **float** correspondiente al total que debe pagar un cliente según la consola seleccionada y las horas utilizadas. El valor calculado se devuelve mediante la instrucción `return`, permitiendo que otra función lo utilice posteriormente.
 
----
+
 
 ## 📌 Paso de parámetros por referencia
 
@@ -89,7 +89,7 @@ Cada vez que un cliente realiza un pago, el programa ejecuta:
 
 De esta forma se actualiza directamente la variable del programa principal sin necesidad de devolver un valor mediante `return`.
 
----
+
 
 ## ✅ Conclusión sobre la modularidad
 
