@@ -35,7 +35,7 @@ int main() {
 }
 
 
-/* OTRA FORMA DE ARREGLO TYRIDIMENSIONAL --------------------------------------------------------
+//OTRA FORMA DE ARREGLO TYRIDIMENSIONAL --------------------------------------------------------
 
 #include <stdio.h>
 
@@ -70,4 +70,3 @@ int main() {
 
     return 0;
 }
-*/
