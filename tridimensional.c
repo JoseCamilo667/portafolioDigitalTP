@@ -24,7 +24,7 @@ int main() {
     for(int c = 0; c < 2; c++) {
         for(int f = 0; f < 2; f++) {
             for(int co = 0; co < 3; co++) {
-                printf("[%i] ", matriz[c][f][co]);
+                printf("[%i]\t", matriz[c][f][co]);
             }
             printf("\n");
         }
