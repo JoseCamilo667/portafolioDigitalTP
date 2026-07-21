@@ -8,7 +8,7 @@ int main(){
         printf("Ingrese la nota %i: ", p);
         scanf("%i", &valor);
         notas[p] = valor;
-        suma += valor;
+        suma = suma + valor;
     }
 
     for (int i = 0; i < 5; i++){
