@@ -61,9 +61,9 @@
 
 ---
 
-# 🤖 Conclusiones Generales
+# 📝 Conclusiones Generales
 
-🔍 **[Click para Ingresar](Conclusiones.md)**
+🔚 **[Click para Ingresar](Conclusiones.md)**
 
 ---
 
