@@ -13,3 +13,10 @@
 > El estudiante es responsable de la revisión, comprensión y validación del contenido presentado, así como de garantizar la originalidad y el uso ético de la información conforme a las normas académicas de la institución.
 
 ---
+
+
+<div align="center">
+
+[⬅️ **Regresar al Inicio**](index.md)
+
+</div>
