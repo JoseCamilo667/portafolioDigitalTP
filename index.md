@@ -51,9 +51,7 @@
 
 # 📖 Bibliografía
 
-[1] T. H. Cormen, C. E. Leiserson, R. L. Rivest y C. Stein, *Introduction to Algorithms*, 3rd ed. Cambridge, MA, USA: MIT Press, 2009.
-
-[2] B. W. Kernighan y D. M. Ritchie, *The C Programming Language*, 2nd ed. Englewood Cliffs, NJ, USA: Prentice Hall, 1988.
+🔍 **[Click para Ingresar](Bibliografia.md)**
 
 ---
 
