@@ -1,4 +1,8 @@
+<div align="center">
+  
 # 🎓 Conclusiones
+
+</div>
 
 - 🧠 **Comprendí que la programación inicia con un buen análisis del problema y no únicamente escribiendo código.** El desarrollo de algoritmos, pseudocódigos, diagramas de flujo y pruebas de escritorio me permitió organizar mejor las ideas, identificar posibles errores antes de programar y construir soluciones más eficientes. Gracias a este proceso aprendí que una buena planificación facilita el desarrollo de programas funcionales y reduce considerablemente el tiempo dedicado a corregir errores.
 
