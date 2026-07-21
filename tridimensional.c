@@ -12,7 +12,7 @@ int main() {
             for(int co = 0; co < 3; co++) {
                 printf("Ingrese el dato de la posicion (%i,%i,%i): ", c, f, co);
                 scanf("%i", &matriz[c][f][co]);
-                suma += matriz[c][f][co];
+                suma = suma + matriz[c][f][co];
             }
         }
     }
