@@ -41,8 +41,12 @@ Este tipo de paso de parámetros es recomendable cuando únicamente se necesita 
 ### 📄 Ejemplo desarrollado
  
 **Archivo del código:**
+
+<div align="center">
  
 [📄 Ver código completo](ejercicioValor.c)
+
+</div>
  
 ### Explicación
  
@@ -66,9 +70,11 @@ Este mecanismo es muy utilizado cuando una función necesita actualizar valores 
 
 **Archivo del código:**
 
+<div align="center">
 
 [📄 Ver código completo](ejercicioRefe.c)
 
+</div>
 
 ### Explicación
 
@@ -131,8 +137,11 @@ int notas[5];
 
 ### 📄 Ejemplo desarrollado
 
+<div align="center">
+
 [📄 Ver código completo](unidimensional.c)
 
+</div>
 
 ### Explicación
 
@@ -170,8 +179,11 @@ int matriz[3][2];
 
 ### 📄 Ejemplo desarrollado
 
+<div align="center">
+
 [📄 Ver código completo](bidimensional.c)
 
+</div>
 
 ### Explicación
 
@@ -209,9 +221,11 @@ int matriz[2][2][3];
 
 ### 📄 Ejemplo desarrollado
 
+<div align="center">
 
 [📄 Ver código completo](tridimensional.c)
 
+</div>
 
 ### Explicación
 
