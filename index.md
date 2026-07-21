@@ -49,23 +49,27 @@
 
 ---
 
-# 📖 Bibliografía
+<div align="center">
 
-🔍 **[Click para Ingresar](Bibliografia.md)**
+# 📚 Recursos Complementarios
 
----
+### 📖 Bibliografía
 
-# 🤖 Declaración de uso de Inteligencia Artificial Generativa
-
-🔍 **[Click para Ingresar](DeclaracionIA.md)**
+[![Bibliografía](https://img.shields.io/badge/📚-Abrir_Bibliografía-0A66C2?style=for-the-badge)](Bibliografia.md)
 
 ---
 
-# 📝 Conclusiones Generales
+### 🤖 Declaración de Uso de Inteligencia Artificial Generativa
 
-🔚 **[Click para Ingresar](Conclusiones.md)**
+[![Declaración IA](https://img.shields.io/badge/🤖-Ver_Declaración_IA-8A2BE2?style=for-the-badge)](DeclaracionIA.md)
 
 ---
+
+### 📝 Conclusiones Generales
+
+[![Conclusiones](https://img.shields.io/badge/📝-Leer_Conclusiones-2E8B57?style=for-the-badge)](Conclusiones.md)
+
+</div>
 
 <div align="center">
 
