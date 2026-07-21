@@ -61,6 +61,12 @@
 
 ---
 
+# 🤖 Conclusiones Generales
+
+🔍 **[Click para Ingresar](Conclusiones.md)**
+
+---
+
 <div align="center">
 
 ### 🏛️ Universidad Nacional de Loja
