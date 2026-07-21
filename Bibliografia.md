@@ -1,4 +1,8 @@
+<div align="center"> 
+  
 # 📖 Bibliografía
+
+</div>
 
 - [1] T. H. Cormen, C. E. Leiserson, R. L. Rivest y C. Stein, *Introduction to Algorithms*, 3rd ed. Cambridge, MA, USA: MIT Press, 2009.
 
