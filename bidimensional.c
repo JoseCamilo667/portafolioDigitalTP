@@ -3,8 +3,7 @@
 int main() {
 
     int matriz[3][2];
-    int dato;
-    int suma = 0;
+    int dato, suma = 0;
     float promedio;
 
     // Ingreso de datos
@@ -13,7 +12,7 @@ int main() {
             printf("Ingrese el dato de la posicion (%i,%i): ", x, y);
             scanf("%i", &dato);
             matriz[x][y] = dato;
-            suma += dato;
+            suma = suma + dato;
         }
     }
 
